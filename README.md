@@ -1,2 +1,4 @@
-# deployments-test
-Here I test how Jupyter Notebooks, Dash, GitHub, Binder, and/or Heroku can be used to deploy interactive tools/capabilities. 
+# <Working Group Title>: Interactive Dashboard
+Interactive dashboard created with Dash and plotly.
+
+The dashboard is running on Kaggle at (). Please visit () to explore the dashboard.
